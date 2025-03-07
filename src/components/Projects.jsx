@@ -11,7 +11,7 @@ function Projects() {
           {/* Project 1 */}
           <div className="project-card">
             <div className="project-image">
-              <img src="/api/placeholder/400/320" alt="Project 1" />
+              <img src="/images/project1.png" alt="Project 1" />
             </div>
             <div className="project-info">
               <h3>AI Image Generator</h3>
@@ -66,7 +66,7 @@ function Projects() {
           {/* Project 2 */}
           <div className="project-card">
             <div className="project-image">
-              <img src="/api/placeholder/400/320" alt="Project 2" />
+              <img src="/images/project2.png" alt="Project 2" />
             </div>
             <div className="project-info">
               <h3>E-commerce Platform</h3>
@@ -121,7 +121,7 @@ function Projects() {
           {/* Project 3 */}
           <div className="project-card">
             <div className="project-image">
-              <img src="/api/placeholder/400/320" alt="Project 3" />
+              <img src="/images/project3.png" alt="Project 3" />
             </div>
             <div className="project-info">
               <h3>Fitness Tracker Mobile App</h3>

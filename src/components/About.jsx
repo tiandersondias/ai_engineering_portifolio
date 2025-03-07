@@ -9,7 +9,7 @@ function About() {
         </div>
         <div className="about-content">
           <div className="about-image">
-            <img src="/api/placeholder/400/320" alt="About Image" />
+            <img src="/images/about.png" alt="About Image" />
           </div>
           <div className="about-text">
             <h3>
